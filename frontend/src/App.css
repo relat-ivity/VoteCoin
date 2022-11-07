@@ -1,0 +1,7 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
